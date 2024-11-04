@@ -1,0 +1,352 @@
+Successfully obtained access token.
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"3124-481d-b706-10bdd6fbc8e2732116",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"dad6-4c34-8787-c8cb963a496d79098",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"94fc-460e-a970-797968bf6a8586011",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 10.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"94fc-460e-a970-797968bf6a8586278",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"3124-481d-b706-10bdd6fbc8e2736459",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"dad6-4c34-8787-c8cb963a496d87249",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"dad6-4c34-8787-c8cb963a496d99877",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"dad6-4c34-8787-c8cb963a496d654385",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid PhoneNumber"
+                }
+            
+STK Push initiated for 0725774878 with amount 9.
+Payment initiation failed: Bad Request - Invalid PhoneNumber
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"dad6-4c34-8787-c8cb963a496d654442",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid PhoneNumber"
+                }
+            
+STK Push initiated for 257725774878 with amount 9.
+Payment initiation failed: Bad Request - Invalid PhoneNumber
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8ed5-4489-a67f-881890b925f21167302",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid PhoneNumber"
+                }
+            
+STK Push initiated for +257725774878 with amount 9.
+Payment initiation failed: Bad Request - Invalid PhoneNumber
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"94fc-460e-a970-797968bf6a85654600",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid PhoneNumber"
+                }
+            
+STK Push initiated for +254725774878 with amount 9.
+Payment initiation failed: Bad Request - Invalid PhoneNumber
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8ed5-4489-a67f-881890b925f21167539",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"3124-481d-b706-10bdd6fbc8e21165590",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 0725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"3124-481d-b706-10bdd6fbc8e21165715",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"dad6-4c34-8787-c8cb963a496d655087",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid PhoneNumber"
+                }
+            
+STK Push initiated for 0725774878 with amount 9.
+Payment initiation failed: Bad Request - Invalid PhoneNumber
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8ed5-4489-a67f-881890b925f21167738",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid PhoneNumber"
+                }
+            
+STK Push initiated for 725774878 with amount 9.
+Payment initiation failed: Bad Request - Invalid PhoneNumber
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8ed5-4489-a67f-881890b925f21167742",
+                    "errorCode": "500.003.02",
+                    "errorMessage": "System is busy. Please try again in few minutes."
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: System is busy. Please try again in few minutes.
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"dad6-4c34-8787-c8cb963a496d655114",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid PhoneNumber"
+                }
+            
+STK Push initiated for +254725774878 with amount 9.
+Payment initiation failed: Bad Request - Invalid PhoneNumber
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"3124-481d-b706-10bdd6fbc8e21165889",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid PhoneNumber"
+                }
+            
+STK Push initiated for +254725774878 with amount 9.
+Payment initiation failed: Bad Request - Invalid PhoneNumber
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"94fc-460e-a970-797968bf6a85655510",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"94fc-460e-a970-797968bf6a85655520",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid PhoneNumber"
+                }
+            
+STK Push initiated for +254725774878 with amount 9.
+Payment initiation failed: Bad Request - Invalid PhoneNumber
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"dad6-4c34-8787-c8cb963a496d655384",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid PhoneNumber"
+                }
+            
+STK Push initiated for 0725774878 with amount 9.
+Payment initiation failed: Bad Request - Invalid PhoneNumber
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8ed5-4489-a67f-881890b925f21168182",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+Successfully obtained access token.
+Error initiating STK Push: name 'MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkNzFhNDY3Y2QyZTBjODkzMDU5YjEwZjc4ZTZiNzJhZDFlYWQyYzkxOTIwMjQxMDE2MjIwOTAz' is not defined
+Successfully obtained access token.
+Error initiating STK Push: name 'MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkNzFhNDY3Y2QyZTBjODkzMDU5YjEwZjc4ZTZiNzJhZDFlYWQyYzkxOTIwMjQxMDE2MjIwOTAz' is not defined
+Successfully obtained access token.
+Error initiating STK Push: name 'MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkNzFhNDY3Y2QyZTBjODkzMDU5YjEwZjc4ZTZiNzJhZDFlYWQyYzkxOTIwMjQxMDE2MjIwOTAz' is not defined
+Successfully obtained access token.
+Error initiating STK Push: name 'MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkNzFhNDY3Y2QyZTBjODkzMDU5YjEwZjc4ZTZiNzJhZDFlYWQyYzkxOTIwMjQxMDE2MjIwOTAz' is not defined
+Successfully obtained access token.
+Error initiating STK Push: name 'MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkNzFhNDY3Y2QyZTBjODkzMDU5YjEwZjc4ZTZiNzJhZDFlYWQyYzkxOTIwMjQxMDE2MjIwOTAz' is not defined
+Successfully obtained access token.
+Error initiating STK Push: name 'MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkNzFhNDY3Y2QyZTBjODkzMDU5YjEwZjc4ZTZiNzJhZDFlYWQyYzkxOTIwMjQxMDE2MjIwOTAz' is not defined
+Successfully obtained access token.
+Error initiating STK Push: name 'MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkNzFhNDY3Y2QyZTBjODkzMDU5YjEwZjc4ZTZiNzJhZDFlYWQyYzkxOTIwMjQxMDE2MjIwOTAz' is not defined
+Successfully obtained access token.
+Error initiating STK Push: name 'MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkNzFhNDY3Y2QyZTBjODkzMDU5YjEwZjc4ZTZiNzJhZDFlYWQyYzkxOTIwMjQxMDE2MjIwOTAz' is not defined
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8ed5-4489-a67f-881890b925f21179425",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid Timestamp"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Bad Request - Invalid Timestamp
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8ed5-4489-a67f-881890b925f21179488",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid Timestamp"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Bad Request - Invalid Timestamp
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"dad6-4c34-8787-c8cb963a496d672627",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"dad6-4c34-8787-c8cb963a496d672784",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8c39-4e24-ba78-a464bfcb7db6271",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+HTTP error occurred while obtaining token: 400 Client Error: Bad Request for url: https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials
+Error initiating STK Push: 400 Client Error: Bad Request for url: https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8c39-4e24-ba78-a464bfcb7db617967",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8ed5-4489-a67f-881890b925f21198136",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"3124-481d-b706-10bdd6fbc8e21196187",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8ed5-4489-a67f-881890b925f21198660",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8c39-4e24-ba78-a464bfcb7db618539",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8c39-4e24-ba78-a464bfcb7db618572",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"3124-481d-b706-10bdd6fbc8e21196485",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"8ed5-4489-a67f-881890b925f21208851",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"94fc-460e-a970-797968bf6a85706639",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 19.
+Payment initiation failed: Wrong credentials
+Successfully obtained access token.
+STK Push Response: {
+                    "requestId":"94fc-460e-a970-797968bf6a85779272",
+                    "errorCode": "500.001.1001",
+                    "errorMessage": "Wrong credentials"
+                }
+            
+STK Push initiated for 254725774878 with amount 9.
+Payment initiation failed: Wrong credentials
